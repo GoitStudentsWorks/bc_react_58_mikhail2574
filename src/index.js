@@ -12,7 +12,7 @@ import { ContextProvider } from 'context/ContextProvider';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <>
-    <BrowserRouter basename="/project-money-guard">
+    <BrowserRouter basename="/bc_react_58_mikhail2574">
       <Provider store={store}>
         <ContextProvider>
           <PersistGate loading={null} persistor={persistor}>
