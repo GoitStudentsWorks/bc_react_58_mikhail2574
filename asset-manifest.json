@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bc_react_58_mikhail2574/static/css/main.f660b829.css",
-    "main.js": "/bc_react_58_mikhail2574/static/js/main.68ad7187.js",
+    "main.js": "/bc_react_58_mikhail2574/static/js/main.55e7522c.js",
     "static/media/mainGradient.png": "/bc_react_58_mikhail2574/static/media/mainGradient.0d7f1b74420173be3a7a.png",
     "static/media/GradientLogo.png": "/bc_react_58_mikhail2574/static/media/GradientLogo.bbabb305d267931c1a7a.png",
     "static/media/Poppins-Regular.ttf": "/bc_react_58_mikhail2574/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
@@ -28,10 +28,10 @@
     "static/media/logout.svg": "/bc_react_58_mikhail2574/static/media/logout.b7825dd385e5b1eb4111f1cd6217a322.svg",
     "static/media/plus.svg": "/bc_react_58_mikhail2574/static/media/plus.6194a661e88e1e5113d28da2398b6404.svg",
     "main.f660b829.css.map": "/bc_react_58_mikhail2574/static/css/main.f660b829.css.map",
-    "main.68ad7187.js.map": "/bc_react_58_mikhail2574/static/js/main.68ad7187.js.map"
+    "main.55e7522c.js.map": "/bc_react_58_mikhail2574/static/js/main.55e7522c.js.map"
   },
   "entrypoints": [
     "static/css/main.f660b829.css",
-    "static/js/main.68ad7187.js"
+    "static/js/main.55e7522c.js"
   ]
 }
