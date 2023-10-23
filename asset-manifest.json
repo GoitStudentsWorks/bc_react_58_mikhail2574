@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/bc_react_58_mikhail2574/static/css/main.f660b829.css",
+    "main.js": "/bc_react_58_mikhail2574/static/js/main.68ad7187.js",
+    "static/media/mainGradient.png": "/bc_react_58_mikhail2574/static/media/mainGradient.0d7f1b74420173be3a7a.png",
+    "static/media/GradientLogo.png": "/bc_react_58_mikhail2574/static/media/GradientLogo.bbabb305d267931c1a7a.png",
+    "static/media/Poppins-Regular.ttf": "/bc_react_58_mikhail2574/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/bc_react_58_mikhail2574/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/bc_react_58_mikhail2574/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/register-desktop@2x.webp": "/bc_react_58_mikhail2574/static/media/register-desktop@2x.e2dccd71598648f779a3.webp",
+    "static/media/register-tablet@2x.webp": "/bc_react_58_mikhail2574/static/media/register-tablet@2x.256d405d3d8a04f33c55.webp",
+    "static/media/login-desktop@2x.webp": "/bc_react_58_mikhail2574/static/media/login-desktop@2x.bdffcccfcfd46c2ecfaa.webp",
+    "static/media/destop@2x.webp": "/bc_react_58_mikhail2574/static/media/destop@2x.ceb3b50c75d42c8e312d.webp",
+    "static/media/login-tablet@2x.webp": "/bc_react_58_mikhail2574/static/media/login-tablet@2x.4bcb9f503b4ec2ef6ad5.webp",
+    "static/media/register-desktop.webp": "/bc_react_58_mikhail2574/static/media/register-desktop.cee3c73c3985f3f83e42.webp",
+    "static/media/register-tablet.webp": "/bc_react_58_mikhail2574/static/media/register-tablet.0b9ea44cd9af4e830f3d.webp",
+    "static/media/tablet@2x.webp": "/bc_react_58_mikhail2574/static/media/tablet@2x.321e7be409f7333818dc.webp",
+    "static/media/mobile@2x.webp": "/bc_react_58_mikhail2574/static/media/mobile@2x.da5ab60041d04fa98e92.webp",
+    "static/media/login-desktop.webp": "/bc_react_58_mikhail2574/static/media/login-desktop.ba33ab0dd3bb18e0316a.webp",
+    "static/media/deskop.webp": "/bc_react_58_mikhail2574/static/media/deskop.6679e5504dfa81d3468c.webp",
+    "static/media/login-tablet.webp": "/bc_react_58_mikhail2574/static/media/login-tablet.2ad37c4d63bd2bf5dc2a.webp",
+    "static/media/tablet.webp": "/bc_react_58_mikhail2574/static/media/tablet.65a1267fec2387718ede.webp",
+    "static/media/mobile.webp": "/bc_react_58_mikhail2574/static/media/mobile.301eb3ba8e0b08235dcb.webp",
+    "static/media/logo.svg": "/bc_react_58_mikhail2574/static/media/logo.dce3145872188e100148c46882b30412.svg",
+    "static/media/register-mobile.webp": "/bc_react_58_mikhail2574/static/media/register-mobile.4056e7b85f4d8796cf40.webp",
+    "index.html": "/bc_react_58_mikhail2574/index.html",
+    "static/media/logo-second.svg": "/bc_react_58_mikhail2574/static/media/logo-second.ffeeeefcbe61417cbb56220cd92da552.svg",
+    "static/media/logout.svg": "/bc_react_58_mikhail2574/static/media/logout.b7825dd385e5b1eb4111f1cd6217a322.svg",
+    "static/media/plus.svg": "/bc_react_58_mikhail2574/static/media/plus.6194a661e88e1e5113d28da2398b6404.svg",
+    "main.f660b829.css.map": "/bc_react_58_mikhail2574/static/css/main.f660b829.css.map",
+    "main.68ad7187.js.map": "/bc_react_58_mikhail2574/static/js/main.68ad7187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f660b829.css",
+    "static/js/main.68ad7187.js"
+  ]
+}
